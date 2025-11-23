@@ -665,7 +665,6 @@ header .mega-menu ul li:not(:last-child) {
 }
 .features .feat:hover .img-holder::after {
   border-width: 170px 500px 245px 0;
-  left: 0;
 }
 .features .quality:hover .img-holder::after {
   border-color: transparent transparent #f44036 transparent;
