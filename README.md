@@ -1,0 +1,1 @@
+# Mano_static
